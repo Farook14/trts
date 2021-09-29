@@ -1,0 +1,2 @@
+this id git class file
+for multiple changes use (git add. or git add*.*)
